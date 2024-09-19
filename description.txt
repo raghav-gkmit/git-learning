@@ -1,1 +1,2 @@
 This is a description file for git training session
+Lakshya Kumar Singh this side added text in description.txt for merge conflict.
