@@ -1,1 +1,19 @@
 This is a description file for git training session
+
+
+# Akshay Mundra
+1. Git basics - Working dir, staging area,  commit area and why to use git including pros and cons.
+2. Creating new branch and switching.
+3. Review branch and merge branch in github.
+4. Basics commands of git
+5. Branch naming convention - 
+	main - main / master / prod
+	stage - stage / preprod
+	feature - feature-<fefature-name |  Jira tickit >
+	bugfix - bugfix-<bug-name | tickit>
+	hotfix - hotfix-... (for critical situation only - as it cuts from main and merge in main)
+	release - release-<date> (for releasing new version --- main->release, stage->release, release->main);
+6. Fork and clone difference.
+7. How merge works and resolving merge conflicts
+8. commit naming convenction.
+9. Types of merging -> Fast forward and three way merging.
