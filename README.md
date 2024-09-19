@@ -1,12 +1,8 @@
-# git-learnikjsbnakjdnaskld
-
-asdjkvaskdljas
-daslkjdbas;'d;
-'asbdbas
-'d'aslkd
-as'd;lasd
-;';asl;
-;as';lda
-;dfjlksdal'f
-;
-adsf';lkladsflng
+git status
+git pull
+git push
+git checkout
+git stash
+git branch
+git diff
+git merge
