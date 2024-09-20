@@ -1,4 +1,5 @@
-# git-lear
+# git-learning
+
 
 akjsbdgakjsbdkjasd
 askjhdbajksbdkjasd
@@ -9,3 +10,5 @@ ning
 
 
 hii, im yogita khanna
+Repository to learn git conflicts resolution
+
