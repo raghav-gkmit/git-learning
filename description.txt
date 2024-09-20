@@ -17,3 +17,4 @@ Task to be done: 1.Given by Raghav - ->To clone the repo share by raghav. -> edi
 
 2.Given by Dhruvil - -> create folder having one text file and .gitignore file -> push that folder on the github -> after that put that text file in the .gitignore file. -> push again after commiting the changes -> task is to do that you have to check that file is deleted from github or not, if not then search what to do to delete the file after gitignore.
 
+
