@@ -1,1 +1,27 @@
-This is a description file for git training session, now resolve conflicts 
+-> Lakshya Kumar Singh
+1. git basics commands.
+2.commands:
+git add.
+git status
+git pull 
+git push
+git stash
+git diff
+git remote origin ...
+3. Branch naming conventions
+4. How merge works and resolving merge conflicts
+5. commit naming convenction.
+
+Tasks:
+
+1.Given by Raghav - 
+->To clone the repo share by raghav.
+-> edit the file which is inside repo  by all the task that had been done in whole day in the starting of that file.
+-> commit that changes and create pull request to merge that commit in that repo. 
+
+2.Given by Dhruvil -
+-> create folder having one text file and .gitignore file 
+-> push that folder on the github
+-> after that put that text file in the .gitignore file.
+-> push again after commiting the changes
+-> task is to do that you have to check that file is deleted from github or not, if not then search what to do to delete the file after gitignore.
