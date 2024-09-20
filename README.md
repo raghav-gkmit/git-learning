@@ -1,8 +1,3 @@
-# git-lear
+# git-learning
 
-akjsbdgakjsbdkjasd
-askjhdbajksbdkjasd
-aksjdbgkjasbdnasd
-aksjdgbkjasnd
-aksdjdfbgkaslndklas
-ning
+Repository to learn git conflicts resolution
