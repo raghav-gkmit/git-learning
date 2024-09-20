@@ -1,4 +1,4 @@
-This is a description file for git training session
+This is a description file for git training session, now resolve conflicts
 
 
 # Akshay Mundra
